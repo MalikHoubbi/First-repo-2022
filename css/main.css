@@ -1,7 +1,10 @@
-header.image {
+
+body {
+    background-color: #475472;
+}
+body header img {
+    height: 400px;
     width: 400px;
 }
 
-h1 {
-    color: #ff0000;
-}
+
