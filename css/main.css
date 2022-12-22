@@ -1,7 +1,8 @@
 
 body {
-    background-image: url("../image/drip-goku.jpg");
+    background-image: url("../image/shagi-ball-z.png");
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: #ffffff;
@@ -18,12 +19,16 @@ img {
 
 img.saluuut {
     display: flex;
-    margin: auto;
     height: 300px;
     width: 300px;
 
 }
-
+h1 {
+    color: seagreen;
+}
+h2 {
+    color: blue;
+}
 a {
     color: #69cd96;
 }
