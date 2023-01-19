@@ -1,14 +1,15 @@
 
 body {
-    background-image: url("../image/shagi-ball-z.png");
+    background-image: url("../image/fond-hiver.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    color: #ffffff;
+    color: #000000;
     font-family: "Comic Sans MS", sans-serif;
     font-size: 18px; /* 1em = 16px | idéal 18-22px */
     line-height: 1.2; /* 1.3 à 1.7 */
+    text-align: center;
 }
 
 img {
@@ -22,17 +23,17 @@ img.photo {
 }
 
 .titre1 a {
-    color: seagreen;
+    color: #3a0a0a;
     text-decoration: none;
     font-family: "Montserrat Subrayada", sans-serif;
     font-size: 20px;
 }
 
 h2 {
-    color: #2626ff;
+    color: #461a91;
 }
 
 a {
-    color: #69cd96;
+    color: #243065;
 
 }
